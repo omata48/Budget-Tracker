@@ -1,6 +1,6 @@
 {
-    "name": "Notetaker",
-    "short_name": "Notetaker",
+    "name": "Online/Offline Budget Tracker",
+    "short_name": "Budget Tracker",
     "icons": [
       {
         "src": "/icons/icon-192x192.png",
@@ -13,7 +13,7 @@
         "type": "image/png"
       }
     ],
-    "theme_color": "#ffffff",
+    "theme_color": "#317EFB",
     "background_color": "#ffffff",
     "start_url": "/",
     "display": "standalone"
