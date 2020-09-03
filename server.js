@@ -24,6 +24,7 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/budget", {
 app.use(require("./routes/api.js"));
 
 app.get("/", (req,res) => {
+  // eslint-disable-next-line no-undef
   res.sendFile(path.join(__dirname, "./public/index.html"));
 });
 
