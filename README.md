@@ -63,6 +63,16 @@ Licensed under the [MIT license](LICENSE).
 ## Contributing
 Contributions welcomed by forking repo and submitting a pull request with any feature requests
 
+## Technologies Used
+
+* Mongoose (MongoDB)
+* HTML5
+* Express
+* Node.js
+* ESlint
+* CSS
+* Heroku
+
 ## Tests
 Test server capabilities for files
 ```
